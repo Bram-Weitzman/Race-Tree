@@ -1,0 +1,158 @@
+{
+    "Lap16": [
+        {
+            "TimeOfDay": 855.987,
+            "position": 1,
+            "name": "DAVID BARNES",
+            "kartNumber": "302",
+            "StartPosition": 2
+        },
+        {
+            "TimeOfDay": 856.076,
+            "position": 2,
+            "name": "JADEN HARRY",
+            "kartNumber": "382",
+            "StartPosition": 1
+        },
+        {
+            "TimeOfDay": 856.853,
+            "position": 3,
+            "name": "JORDAN PRIOR",
+            "kartNumber": "389",
+            "StartPosition": 3
+        },
+        {
+            "TimeOfDay": 858.888,
+            "position": 4,
+            "name": "JONATHON TREADWELL",
+            "kartNumber": "366",
+            "StartPosition": 6
+        },
+        {
+            "TimeOfDay": 858.982,
+            "position": 5,
+            "name": "ANTHONY QUEZADA",
+            "kartNumber": "377",
+            "StartPosition": 7
+        },
+        {
+            "TimeOfDay": 859.532,
+            "position": 6,
+            "name": "MITCHELL MORROW",
+            "kartNumber": "383",
+            "StartPosition": 8
+        },
+        {
+            "TimeOfDay": 859.615,
+            "position": 7,
+            "name": "NOAH HOWARTH",
+            "kartNumber": "329",
+            "StartPosition": 11
+        },
+        {
+            "TimeOfDay": 860.286,
+            "position": 8,
+            "name": "LOGAN PACZA",
+            "kartNumber": "316",
+            "StartPosition": 4
+        },
+        {
+            "TimeOfDay": 860.367,
+            "position": 9,
+            "name": "OWEN McCARTHY",
+            "kartNumber": "367",
+            "StartPosition": 17
+        },
+        {
+            "TimeOfDay": 860.87,
+            "position": 10,
+            "name": "ALEX MURPHY",
+            "kartNumber": "388",
+            "StartPosition": 12
+        },
+        {
+            "TimeOfDay": 861.894,
+            "position": 11,
+            "name": "LILY FLINTOFF",
+            "kartNumber": "322",
+            "StartPosition": 9
+        },
+        {
+            "TimeOfDay": 862.788,
+            "position": 12,
+            "name": "JACOB HILL",
+            "kartNumber": "357",
+            "StartPosition": 16
+        },
+        {
+            "TimeOfDay": 862.911,
+            "position": 13,
+            "name": "PATRICK LELIEVRE",
+            "kartNumber": "337",
+            "StartPosition": 15
+        },
+        {
+            "TimeOfDay": 863.091,
+            "position": 14,
+            "name": "PARKER PIEKOSZ",
+            "kartNumber": "336",
+            "StartPosition": 10
+        },
+        {
+            "TimeOfDay": 863.603,
+            "position": 15,
+            "name": "GRAYSON MACDONALD",
+            "kartNumber": "393",
+            "StartPosition": 13
+        },
+        {
+            "TimeOfDay": 864.207,
+            "position": 16,
+            "name": "NICHOLAS FOLINO",
+            "kartNumber": "342",
+            "StartPosition": 14
+        },
+        {
+            "TimeOfDay": 865.96,
+            "position": 17,
+            "name": "BLAKE WEITZMAN",
+            "kartNumber": "324",
+            "StartPosition": 18
+        },
+        {
+            "TimeOfDay": 868.255,
+            "position": 18,
+            "name": "IVANA TCHIPLAKOVA",
+            "kartNumber": "339",
+            "StartPosition": 21
+        },
+        {
+            "TimeOfDay": 871.744,
+            "position": 19,
+            "name": "CONNER FREER",
+            "kartNumber": "394",
+            "StartPosition": 23
+        },
+        {
+            "TimeOfDay": 871.965,
+            "position": 20,
+            "name": "TYLER FREIER",
+            "kartNumber": "385",
+            "StartPosition": 20
+        },
+        {
+            "TimeOfDay": 872.05,
+            "position": 21,
+            "name": "NATHAN NICHOLSON",
+            "kartNumber": "335",
+            "StartPosition": 19
+        },
+        {
+            "TimeOfDay": 872.415,
+            "position": 22,
+            "name": "ALI RAZA",
+            "kartNumber": "30",
+            "StartPosition": 22
+        }
+    ]
+}

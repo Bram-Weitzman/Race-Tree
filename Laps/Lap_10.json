@@ -1,0 +1,265 @@
+{
+    "Lap10": [
+        {
+            "TimeOfDay": 549.427,
+            "position": 1,
+            "name": "DAVID BARNES",
+            "kartNumber": "302",
+            "StartPosition": 2,
+            "Assumed_Positions": {
+                "P1": "302",
+                "P2": "369",
+                "P3": "382",
+                "P4": "389",
+                "P5": "366",
+                "P6": "377",
+                "P7": "316",
+                "P8": "388",
+                "P9": "383",
+                "P10": "357",
+                "P11": "329",
+                "P12": "393",
+                "P13": "342",
+                "P14": "367",
+                "P15": "322",
+                "P16": "336",
+                "P17": "337",
+                "P18": "324",
+                "P19": "339",
+                "P20": "335",
+                "P21": "394",
+                "P22": "385",
+                "P23": "30"
+            }
+        },
+        {
+            "TimeOfDay": 549.52,
+            "position": 2,
+            "name": "JADEN HARRY",
+            "kartNumber": "382",
+            "StartPosition": 1,
+            "Assumed_Positions": {
+                "P1": "302",
+                "P2": "382",
+                "P3": "369",
+                "P4": "389",
+                "P5": "366",
+                "P6": "377",
+                "P7": "316",
+                "P8": "388",
+                "P9": "383",
+                "P10": "357",
+                "P11": "329",
+                "P12": "393",
+                "P13": "342",
+                "P14": "367",
+                "P15": "322",
+                "P16": "336",
+                "P17": "337",
+                "P18": "324",
+                "P19": "339",
+                "P20": "335",
+                "P21": "394",
+                "P22": "385",
+                "P23": "30"
+            }
+        },
+        {
+            "TimeOfDay": 549.65,
+            "position": 3,
+            "name": "JORDAN PRIOR",
+            "kartNumber": "389",
+            "StartPosition": 3,
+            "Assumed_Positions": {
+                "P1": "302",
+                "P2": "382",
+                "P3": "389",
+                "P4": "369",
+                "P5": "366",
+                "P6": "377",
+                "P7": "316",
+                "P8": "388",
+                "P9": "383",
+                "P10": "357",
+                "P11": "329",
+                "P12": "393",
+                "P13": "342",
+                "P14": "367",
+                "P15": "322",
+                "P16": "336",
+                "P17": "337",
+                "P18": "324",
+                "P19": "339",
+                "P20": "335",
+                "P21": "394",
+                "P22": "385",
+                "P23": "30"
+            }
+        },
+        {
+            "TimeOfDay": 549.781,
+            "position": 4,
+            "name": "VASSIL TCHIPLAKOV",
+            "kartNumber": "369",
+            "StartPosition": 5
+        },
+        {
+            "TimeOfDay": 549.876,
+            "position": 5,
+            "name": "JONATHON TREADWELL",
+            "kartNumber": "366",
+            "StartPosition": 6
+        },
+        {
+            "TimeOfDay": 549.978,
+            "position": 6,
+            "name": "ANTHONY QUEZADA",
+            "kartNumber": "377",
+            "StartPosition": 7
+        },
+        {
+            "TimeOfDay": 550.072,
+            "position": 7,
+            "name": "LOGAN PACZA",
+            "kartNumber": "316",
+            "StartPosition": 4
+        },
+        {
+            "TimeOfDay": 550.424,
+            "position": 8,
+            "name": "ALEX MURPHY",
+            "kartNumber": "388",
+            "StartPosition": 12
+        },
+        {
+            "TimeOfDay": 550.7,
+            "position": 9,
+            "name": "MITCHELL MORROW",
+            "kartNumber": "383",
+            "StartPosition": 8
+        },
+        {
+            "TimeOfDay": 551.76,
+            "position": 10,
+            "name": "JACOB HILL",
+            "kartNumber": "357",
+            "StartPosition": 16
+        },
+        {
+            "TimeOfDay": 551.804,
+            "position": 11,
+            "name": "NOAH HOWARTH",
+            "kartNumber": "329",
+            "StartPosition": 11
+        },
+        {
+            "TimeOfDay": 552.072,
+            "position": 12,
+            "name": "GRAYSON MACDONALD",
+            "kartNumber": "393",
+            "StartPosition": 13
+        },
+        {
+            "TimeOfDay": 552.214,
+            "position": 13,
+            "name": "NICHOLAS FOLINO",
+            "kartNumber": "342",
+            "StartPosition": 14
+        },
+        {
+            "TimeOfDay": 552.462,
+            "position": 14,
+            "name": "OWEN McCARTHY",
+            "kartNumber": "367",
+            "StartPosition": 17
+        },
+        {
+            "TimeOfDay": 552.705,
+            "position": 15,
+            "name": "LILY FLINTOFF",
+            "kartNumber": "322",
+            "StartPosition": 9
+        },
+        {
+            "TimeOfDay": 552.799,
+            "position": 16,
+            "name": "PARKER PIEKOSZ",
+            "kartNumber": "336",
+            "StartPosition": 10
+        },
+        {
+            "TimeOfDay": 553.028,
+            "position": 17,
+            "name": "PATRICK LELIEVRE",
+            "kartNumber": "337",
+            "StartPosition": 15
+        },
+        {
+            "TimeOfDay": 555.655,
+            "position": 18,
+            "name": "BLAKE WEITZMAN",
+            "kartNumber": "324",
+            "StartPosition": 18
+        },
+        {
+            "TimeOfDay": 556.55,
+            "position": 19,
+            "name": "IVANA TCHIPLAKOVA",
+            "kartNumber": "339",
+            "StartPosition": 21
+        },
+        {
+            "TimeOfDay": 559.153,
+            "position": 20,
+            "name": "CONNER FREER",
+            "kartNumber": "394",
+            "StartPosition": 23,
+            "Assumed_Positions": {
+                "P1": "302",
+                "P2": "382",
+                "P3": "389",
+                "P4": "369",
+                "P5": "366",
+                "P6": "377",
+                "P7": "316",
+                "P8": "388",
+                "P9": "383",
+                "P10": "357",
+                "P11": "329",
+                "P12": "393",
+                "P13": "342",
+                "P14": "367",
+                "P15": "322",
+                "P16": "336",
+                "P17": "337",
+                "P18": "324",
+                "P19": "339",
+                "P20": "394",
+                "P21": "335",
+                "P22": "385",
+                "P23": "30"
+            }
+        },
+        {
+            "TimeOfDay": 559.419,
+            "position": 21,
+            "name": "NATHAN NICHOLSON",
+            "kartNumber": "335",
+            "StartPosition": 19
+        },
+        {
+            "TimeOfDay": 559.599,
+            "position": 22,
+            "name": "TYLER FREIER",
+            "kartNumber": "385",
+            "StartPosition": 20
+        },
+        {
+            "TimeOfDay": 559.764,
+            "position": 23,
+            "name": "ALI RAZA",
+            "kartNumber": "30",
+            "StartPosition": 22
+        }
+    ]
+}

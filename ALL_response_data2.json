@@ -1,0 +1,862 @@
+{
+    "type": "Race",
+    "bestLaps": {
+        "field": {
+            "resultClass": "Briggs Senior",
+            "name": "MITCHELL MORROW",
+            "fieldFinishPosition": 6
+        },
+        "classes": [
+            {
+                "resultClass": "Briggs Senior",
+                "name": "MITCHELL MORROW",
+                "fieldFinishPosition": 6
+            }
+        ]
+    },
+    "rows": [
+        {
+            "totalTime": "15:58.848",
+            "bestTime": "51.032",
+            "bestLap": 16,
+            "bestSpeed": 76.187,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "0.000",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "position": 1,
+            "startNumber": "302",
+            "name": "DAVID BARNES",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 1,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-1461aedf2ddc498aa42236f05f88bd04",
+                "productCategory": 700,
+                "chip": {
+                    "code": "10884213"
+                }
+            }
+        },
+        {
+            "totalTime": "15:59.306",
+            "bestTime": "51.083",
+            "bestLap": 13,
+            "bestSpeed": 76.111,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "0.458",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "0.458",
+                "lapsBehind": 0
+            },
+            "position": 2,
+            "startNumber": "389",
+            "name": "JORDAN PRIOR",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 2,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-98f61fdf537a4816930a8f7e400d6823",
+                "productCategory": 700,
+                "chip": {
+                    "code": "12322715"
+                }
+            }
+        },
+        {
+            "totalTime": "16:01.700",
+            "bestTime": "51.368",
+            "bestLap": 17,
+            "bestSpeed": 75.689,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "2.852",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "2.852",
+                "lapsBehind": 0
+            },
+            "position": 3,
+            "startNumber": "366",
+            "name": "JONATHON TREADWELL",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 3,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-b38fb77cf46044f09b9a13fb98ef850c",
+                "productCategory": 0,
+                "chip": {
+                    "code": "4201878"
+                }
+            }
+        },
+        {
+            "totalTime": "16:01.757",
+            "bestTime": "50.976",
+            "bestLap": 4,
+            "bestSpeed": 76.271,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "2.909",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "2.909",
+                "lapsBehind": 0
+            },
+            "position": 4,
+            "startNumber": "329",
+            "name": "NOAH HOWARTH",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 4,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-27548f4f2ac446f6a2ee7aec2e48d669",
+                "productCategory": 700,
+                "chip": {
+                    "code": "13085385"
+                }
+            }
+        },
+        {
+            "totalTime": "16:01.941",
+            "bestTime": "51.032",
+            "bestLap": 16,
+            "bestSpeed": 76.187,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "3.093",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "3.093",
+                "lapsBehind": 0
+            },
+            "position": 5,
+            "startNumber": "382",
+            "name": "JADEN HARRY",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 5,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": null,
+                "productCategory": 0,
+                "chip": {
+                    "code": "10709317"
+                }
+            }
+        },
+        {
+            "totalTime": "16:02.287",
+            "bestTime": "50.940",
+            "bestLap": 17,
+            "bestSpeed": 76.325,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "3.439",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "3.439",
+                "lapsBehind": 0
+            },
+            "position": 6,
+            "startNumber": "383",
+            "name": "MITCHELL MORROW",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 6,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-85a5ffd2625b4f98b816c3b636849cc1",
+                "productCategory": 700,
+                "chip": {
+                    "code": "12652341"
+                }
+            }
+        },
+        {
+            "totalTime": "16:02.641",
+            "bestTime": "51.154",
+            "bestLap": 17,
+            "bestSpeed": 76.006,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "3.793",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "3.793",
+                "lapsBehind": 0
+            },
+            "position": 7,
+            "startNumber": "316",
+            "name": "LOGAN PACZA",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 7,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-be42c214f99a4016a850f5bd93fd176f",
+                "productCategory": 200,
+                "chip": {
+                    "code": "4501067"
+                }
+            }
+        },
+        {
+            "totalTime": "16:02.899",
+            "bestTime": "51.071",
+            "bestLap": 16,
+            "bestSpeed": 76.129,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "4.051",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "4.051",
+                "lapsBehind": 0
+            },
+            "position": 8,
+            "startNumber": "367",
+            "name": "OWEN McCARTHY",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 8,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-08db2c05542a40fc8e1bb57ccf56316e",
+                "productCategory": 700,
+                "chip": {
+                    "code": "11374862"
+                }
+            }
+        },
+        {
+            "totalTime": "16:03.184",
+            "bestTime": "51.150",
+            "bestLap": 4,
+            "bestSpeed": 76.012,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "4.336",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "4.336",
+                "lapsBehind": 0
+            },
+            "position": 9,
+            "startNumber": "377",
+            "name": "ANTHONY QUEZADA",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 9,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-ba5207452a364516bb3ee1c03bd56cf8",
+                "productCategory": 0,
+                "chip": {
+                    "code": "1460549"
+                }
+            }
+        },
+        {
+            "totalTime": "16:03.348",
+            "bestTime": "51.103",
+            "bestLap": 18,
+            "bestSpeed": 76.082,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "4.500",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "4.500",
+                "lapsBehind": 0
+            },
+            "position": 10,
+            "startNumber": "388",
+            "name": "ALEX MURPHY",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 10,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-6b9330539ba64de0b256078938b75f08",
+                "productCategory": 0,
+                "chip": {
+                    "code": "2944421"
+                }
+            }
+        },
+        {
+            "totalTime": "16:04.510",
+            "bestTime": "51.223",
+            "bestLap": 17,
+            "bestSpeed": 75.903,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "5.662",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "5.662",
+                "lapsBehind": 0
+            },
+            "position": 11,
+            "startNumber": "322",
+            "name": "LILY FLINTOFF",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 11,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": null,
+                "productCategory": 0,
+                "chip": {
+                    "code": "15397587"
+                }
+            }
+        },
+        {
+            "totalTime": "16:06.802",
+            "bestTime": "51.156",
+            "bestLap": 16,
+            "bestSpeed": 76.003,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "7.954",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "7.954",
+                "lapsBehind": 0
+            },
+            "position": 12,
+            "startNumber": "336",
+            "name": "PARKER PIEKOSZ",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 12,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-69f0fbd04ee1426f96ea86743073fc70",
+                "productCategory": 700,
+                "chip": {
+                    "code": "11341137"
+                }
+            }
+        },
+        {
+            "totalTime": "16:07.700",
+            "bestTime": "51.385",
+            "bestLap": 8,
+            "bestSpeed": 75.664,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "8.852",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "8.852",
+                "lapsBehind": 0
+            },
+            "position": 13,
+            "startNumber": "393",
+            "name": "GRAYSON MACDONALD",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 13,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-8a43eea773ed4515b474aa6483bc4d48",
+                "productCategory": 700,
+                "chip": {
+                    "code": "13219841"
+                }
+            }
+        },
+        {
+            "totalTime": "16:08.177",
+            "bestTime": "51.366",
+            "bestLap": 16,
+            "bestSpeed": 75.692,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "9.329",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "9.329",
+                "lapsBehind": 0
+            },
+            "position": 14,
+            "startNumber": "337",
+            "name": "PATRICK LELIEVRE",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 14,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-c412b91252684899957ece1c5da37c47",
+                "productCategory": 0,
+                "chip": {
+                    "code": "1486650"
+                }
+            }
+        },
+        {
+            "totalTime": "16:08.320",
+            "bestTime": "51.270",
+            "bestLap": 8,
+            "bestSpeed": 75.834,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "9.472",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "9.472",
+                "lapsBehind": 0
+            },
+            "position": 15,
+            "startNumber": "342",
+            "name": "NICHOLAS FOLINO",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 15,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-3d2cdfcf36764b17b71214b783a2cdea",
+                "productCategory": 700,
+                "chip": {
+                    "code": "11277784"
+                }
+            }
+        },
+        {
+            "totalTime": "16:09.196",
+            "bestTime": "51.485",
+            "bestLap": 16,
+            "bestSpeed": 75.517,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "10.348",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "10.348",
+                "lapsBehind": 0
+            },
+            "position": 16,
+            "startNumber": "324",
+            "name": "BLAKE WEITZMAN",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 16,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-b87df1eeed4343ecad4652e6cc774a41",
+                "productCategory": 0,
+                "chip": {
+                    "code": "42667"
+                }
+            }
+        },
+        {
+            "totalTime": "16:12.643",
+            "bestTime": "51.781",
+            "bestLap": 11,
+            "bestSpeed": 75.085,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "13.795",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "13.795",
+                "lapsBehind": 0
+            },
+            "position": 17,
+            "startNumber": "339",
+            "name": "IVANA TCHIPLAKOVA",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 17,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-995487ef47a54d949415442f38452fed",
+                "productCategory": 700,
+                "chip": {
+                    "code": "13264669"
+                }
+            }
+        },
+        {
+            "totalTime": "16:13.791",
+            "bestTime": "51.282",
+            "bestLap": 8,
+            "bestSpeed": 75.816,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "14.943",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "14.943",
+                "lapsBehind": 0
+            },
+            "position": 18,
+            "startNumber": "357",
+            "name": "JACOB HILL",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 18,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-ef95894d416c4f68b38a62434d88f85c",
+                "productCategory": 0,
+                "chip": {
+                    "code": "706757"
+                }
+            }
+        },
+        {
+            "totalTime": "16:16.383",
+            "bestTime": "51.722",
+            "bestLap": 9,
+            "bestSpeed": 75.171,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "17.535",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "17.535",
+                "lapsBehind": 0
+            },
+            "position": 19,
+            "startNumber": "394",
+            "name": "CONNER FREER",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 19,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-bbdef48b0d7248e994e5e68ed5b9be19",
+                "productCategory": 0,
+                "chip": {
+                    "code": "1817996"
+                }
+            }
+        },
+        {
+            "totalTime": "16:16.557",
+            "bestTime": "51.811",
+            "bestLap": 16,
+            "bestSpeed": 75.042,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "17.709",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "17.709",
+                "lapsBehind": 0
+            },
+            "position": 20,
+            "startNumber": "385",
+            "name": "TYLER FREIER",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 20,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": "MYLAPS-GA-7dfcbf6a6c2b4d8eb40b41aa096b11b3",
+                "productCategory": 200,
+                "chip": {
+                    "code": "4817176"
+                }
+            }
+        },
+        {
+            "totalTime": "16:16.711",
+            "bestTime": "51.770",
+            "bestLap": 14,
+            "bestSpeed": 75.101,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "17.863",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "17.863",
+                "lapsBehind": 0
+            },
+            "position": 21,
+            "startNumber": "335",
+            "name": "NATHAN NICHOLSON",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 21,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": null,
+                "productCategory": 0,
+                "chip": {
+                    "code": "15748972"
+                }
+            }
+        },
+        {
+            "totalTime": "16:17.141",
+            "bestTime": "51.840",
+            "bestLap": 16,
+            "bestSpeed": 75.0,
+            "numberOfLaps": 18,
+            "diffClass": {
+                "timeDifference": "18.293",
+                "lapsBehind": 2
+            },
+            "difference": {
+                "timeDifference": "18.293",
+                "lapsBehind": 0
+            },
+            "position": 22,
+            "startNumber": "30",
+            "name": "ALI RAZA",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 22,
+            "additionalFields": [],
+            "isQualified": true,
+            "status": "Normal",
+            "user": {
+                "mstUserId": null,
+                "productCategory": 0,
+                "chip": {
+                    "code": "14996428"
+                }
+            }
+        },
+        {
+            "totalTime": "12:36.747",
+            "bestTime": "51.328",
+            "bestLap": 5,
+            "bestSpeed": 75.748,
+            "numberOfLaps": 14,
+            "diffClass": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "difference": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "position": 23,
+            "startNumber": "369",
+            "name": "VASSIL TCHIPLAKOV",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 0,
+            "additionalFields": [],
+            "isQualified": false,
+            "status": "DNF",
+            "user": {
+                "mstUserId": "MYLAPS-GA-7912b9fcceee4508a6de94b118dc6caa",
+                "productCategory": 700,
+                "chip": {
+                    "code": "14997250"
+                }
+            }
+        },
+        {
+            "totalTime": "3.591",
+            "bestTime": "0.000",
+            "bestLap": 0,
+            "bestSpeed": 0.0,
+            "numberOfLaps": 0,
+            "diffClass": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "difference": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "position": 24,
+            "startNumber": "77",
+            "name": "ADRIAN CHRISTOPHER",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 0,
+            "additionalFields": [],
+            "isQualified": false,
+            "status": "DNF",
+            "user": {
+                "mstUserId": "MYLAPS-GA-98bd45e9d93149038ac98a0b17f67acd",
+                "productCategory": 700,
+                "chip": {
+                    "code": "10231927"
+                }
+            }
+        },
+        {
+            "totalTime": "0.000",
+            "bestTime": "0.000",
+            "bestLap": 0,
+            "bestSpeed": 0.0,
+            "numberOfLaps": 0,
+            "diffClass": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "difference": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "position": 25,
+            "startNumber": "358",
+            "name": "KAITLYN FREIER",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 0,
+            "additionalFields": [],
+            "isQualified": false,
+            "status": "DNS",
+            "user": {
+                "mstUserId": "MYLAPS-GA-42feabea35664ccb99e513626a949c57",
+                "productCategory": 0,
+                "chip": {
+                    "code": "1109858"
+                }
+            }
+        },
+        {
+            "totalTime": "0.000",
+            "bestTime": "0.000",
+            "bestLap": 0,
+            "bestSpeed": 0.0,
+            "numberOfLaps": 0,
+            "diffClass": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "difference": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "position": 26,
+            "startNumber": "22",
+            "name": "KODY HAYES",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 0,
+            "additionalFields": [],
+            "isQualified": false,
+            "status": "DNS",
+            "user": {
+                "mstUserId": "MYLAPS-GA-d64c03c6225549ac8ef8b978cba09fc0",
+                "productCategory": 0,
+                "chip": {
+                    "code": "5019009"
+                }
+            }
+        },
+        {
+            "totalTime": "0.000",
+            "bestTime": "0.000",
+            "bestLap": 0,
+            "bestSpeed": 0.0,
+            "numberOfLaps": 0,
+            "diffClass": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "difference": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "position": 27,
+            "startNumber": "326",
+            "name": "RAUL GABRIEL CANUTO",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 0,
+            "additionalFields": [],
+            "isQualified": false,
+            "status": "DNS",
+            "user": {
+                "mstUserId": "MYLAPS-GA-e9662bf90d2242b59bdc8b0b23d83734",
+                "productCategory": 0,
+                "chip": {
+                    "code": "538564"
+                }
+            }
+        },
+        {
+            "totalTime": "0.000",
+            "bestTime": "0.000",
+            "bestLap": 0,
+            "bestSpeed": 0.0,
+            "numberOfLaps": 0,
+            "diffClass": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "difference": {
+                "timeDifference": "0.000",
+                "lapsBehind": 0
+            },
+            "position": 28,
+            "startNumber": "330",
+            "name": "JADEN HUNDAL",
+            "resultClass": "Briggs Senior",
+            "positionInClass": 0,
+            "additionalFields": [],
+            "isQualified": false,
+            "status": "DNS",
+            "user": {
+                "mstUserId": null,
+                "productCategory": 0,
+                "chip": {
+                    "code": "11708865"
+                }
+            }
+        }
+    ],
+    "classes": [
+        "Briggs Senior"
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "startingGrid": [
+        {
+            "position": 1,
+            "name": "JADEN HARRY",
+            "kartNumber": "382"
+        },
+        {
+            "position": 2,
+            "name": "DAVID BARNES",
+            "kartNumber": "302"
+        },
+        {
+            "position": 3,
+            "name": "JORDAN PRIOR",
+            "kartNumber": "389"
+        },
+        {
+            "position": 4,
+            "name": "LOGAN PACZA",
+            "kartNumber": "316"
+        },
+        {
+            "position": 5,
+            "name": "VASSIL TCHIPLAKOV",
+            "kartNumber": "369"
+        },
+        {
+            "position": 6,
+            "name": "JONATHON TREADWELL",
+            "kartNumber": "366"
+        },
+        {
+            "position": 7,
+            "name": "ANTHONY QUEZADA",
+            "kartNumber": "377"
+        },
+        {
+            "position": 8,
+            "name": "MITCHELL MORROW",
+            "kartNumber": "383"
+        },
+        {
+            "position": 9,
+            "name": "LILY FLINTOFF",
+            "kartNumber": "322"
+        },
+        {
+            "position": 10,
+            "name": "PARKER PIEKOSZ",
+            "kartNumber": "336"
+        },
+        {
+            "position": 11,
+            "name": "NOAH HOWARTH",
+            "kartNumber": "329"
+        },
+        {
+            "position": 12,
+            "name": "ALEX MURPHY",
+            "kartNumber": "388"
+        },
+        {
+            "position": 13,
+            "name": "GRAYSON MACDONALD",
+            "kartNumber": "393"
+        },
+        {
+            "position": 14,
+            "name": "NICHOLAS FOLINO",
+            "kartNumber": "342"
+        },
+        {
+            "position": 15,
+            "name": "PATRICK LELIEVRE",
+            "kartNumber": "337"
+        },
+        {
+            "position": 16,
+            "name": "JACOB HILL",
+            "kartNumber": "357"
+        },
+        {
+            "position": 17,
+            "name": "OWEN McCARTHY",
+            "kartNumber": "367"
+        },
+        {
+            "position": 18,
+            "name": "BLAKE WEITZMAN",
+            "kartNumber": "324"
+        },
+        {
+            "position": 19,
+            "name": "NATHAN NICHOLSON",
+            "kartNumber": "335"
+        },
+        {
+            "position": 20,
+            "name": "TYLER FREIER",
+            "kartNumber": "385"
+        },
+        {
+            "position": 21,
+            "name": "IVANA TCHIPLAKOVA",
+            "kartNumber": "339"
+        },
+        {
+            "position": 22,
+            "name": "ALI RAZA",
+            "kartNumber": "30"
+        },
+        {
+            "position": 23,
+            "name": "CONNER FREER",
+            "kartNumber": "394"
+        }
+    ]
+}

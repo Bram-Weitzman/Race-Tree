@@ -1,0 +1,22 @@
+{
+    "lapDataInfo": {
+        "participantInfo": {
+            "name": "JADEN HUNDAL",
+            "class": "Briggs Senior",
+            "transponder": "11708865",
+            "userId": null,
+            "startNr": "330",
+            "startPos": null,
+            "fieldFinishPos": 28,
+            "classFinishPos": 0
+        },
+        "lapCount": 0,
+        "allLapsHaveFieldPos": true,
+        "firstLapNr": null,
+        "lapsDriven": 0,
+        "classificationType": 1,
+        "classificationTypeString": "Race",
+        "sessionId": 9349010
+    },
+    "laps": []
+}

@@ -1,0 +1,208 @@
+{
+    "Lap17": [
+        {
+            "TimeOfDay": 907.171,
+            "position": 1,
+            "name": "DAVID BARNES",
+            "kartNumber": "302",
+            "StartPosition": 2
+        },
+        {
+            "TimeOfDay": 907.272,
+            "position": 2,
+            "name": "JADEN HARRY",
+            "kartNumber": "382",
+            "StartPosition": 1
+        },
+        {
+            "TimeOfDay": 907.996,
+            "position": 3,
+            "name": "JORDAN PRIOR",
+            "kartNumber": "389",
+            "StartPosition": 3
+        },
+        {
+            "TimeOfDay": 910.256,
+            "position": 4,
+            "name": "JONATHON TREADWELL",
+            "kartNumber": "366",
+            "StartPosition": 6
+        },
+        {
+            "TimeOfDay": 910.344,
+            "position": 5,
+            "name": "ANTHONY QUEZADA",
+            "kartNumber": "377",
+            "StartPosition": 7
+        },
+        {
+            "TimeOfDay": 910.472,
+            "position": 6,
+            "name": "MITCHELL MORROW",
+            "kartNumber": "383",
+            "StartPosition": 8
+        },
+        {
+            "TimeOfDay": 910.634,
+            "position": 7,
+            "name": "NOAH HOWARTH",
+            "kartNumber": "329",
+            "StartPosition": 11
+        },
+        {
+            "TimeOfDay": 911.44,
+            "position": 8,
+            "name": "LOGAN PACZA",
+            "kartNumber": "316",
+            "StartPosition": 4
+        },
+        {
+            "TimeOfDay": 911.531,
+            "position": 9,
+            "name": "OWEN McCARTHY",
+            "kartNumber": "367",
+            "StartPosition": 17
+        },
+        {
+            "TimeOfDay": 912.244,
+            "position": 10,
+            "name": "ALEX MURPHY",
+            "kartNumber": "388",
+            "StartPosition": 12
+        },
+        {
+            "TimeOfDay": 913.117,
+            "position": 11,
+            "name": "LILY FLINTOFF",
+            "kartNumber": "322",
+            "StartPosition": 9
+        },
+        {
+            "TimeOfDay": 914.804,
+            "position": 12,
+            "name": "PATRICK LELIEVRE",
+            "kartNumber": "337",
+            "StartPosition": 15,
+            "Assumed_Positions": {
+                "P1": "302",
+                "P2": "382",
+                "P3": "389",
+                "P4": "366",
+                "P5": "377",
+                "P6": "383",
+                "P7": "329",
+                "P8": "316",
+                "P9": "367",
+                "P10": "388",
+                "P11": "322",
+                "P12": "337",
+                "P13": "357",
+                "P14": "336",
+                "P15": "393",
+                "P16": "342",
+                "P17": "324",
+                "P18": "339",
+                "P19": "394",
+                "P20": "385",
+                "P21": "335",
+                "P22": "30",
+                "P23": "369"
+            }
+        },
+        {
+            "TimeOfDay": 914.876,
+            "position": 13,
+            "name": "PARKER PIEKOSZ",
+            "kartNumber": "336",
+            "StartPosition": 10,
+            "Assumed_Positions": {
+                "P1": "302",
+                "P2": "382",
+                "P3": "389",
+                "P4": "366",
+                "P5": "377",
+                "P6": "383",
+                "P7": "329",
+                "P8": "316",
+                "P9": "367",
+                "P10": "388",
+                "P11": "322",
+                "P12": "337",
+                "P13": "336",
+                "P14": "357",
+                "P15": "393",
+                "P16": "342",
+                "P17": "324",
+                "P18": "339",
+                "P19": "394",
+                "P20": "385",
+                "P21": "335",
+                "P22": "30",
+                "P23": "369"
+            }
+        },
+        {
+            "TimeOfDay": 915.023,
+            "position": 14,
+            "name": "JACOB HILL",
+            "kartNumber": "357",
+            "StartPosition": 16
+        },
+        {
+            "TimeOfDay": 915.298,
+            "position": 15,
+            "name": "GRAYSON MACDONALD",
+            "kartNumber": "393",
+            "StartPosition": 13
+        },
+        {
+            "TimeOfDay": 915.685,
+            "position": 16,
+            "name": "NICHOLAS FOLINO",
+            "kartNumber": "342",
+            "StartPosition": 14
+        },
+        {
+            "TimeOfDay": 917.602,
+            "position": 17,
+            "name": "BLAKE WEITZMAN",
+            "kartNumber": "324",
+            "StartPosition": 18
+        },
+        {
+            "TimeOfDay": 920.399,
+            "position": 18,
+            "name": "IVANA TCHIPLAKOVA",
+            "kartNumber": "339",
+            "StartPosition": 21
+        },
+        {
+            "TimeOfDay": 923.837,
+            "position": 19,
+            "name": "CONNER FREER",
+            "kartNumber": "394",
+            "StartPosition": 23
+        },
+        {
+            "TimeOfDay": 923.92,
+            "position": 20,
+            "name": "TYLER FREIER",
+            "kartNumber": "385",
+            "StartPosition": 20
+        },
+        {
+            "TimeOfDay": 924.268,
+            "position": 21,
+            "name": "NATHAN NICHOLSON",
+            "kartNumber": "335",
+            "StartPosition": 19
+        },
+        {
+            "TimeOfDay": 924.617,
+            "position": 22,
+            "name": "ALI RAZA",
+            "kartNumber": "30",
+            "StartPosition": 22
+        }
+    ]
+}
